@@ -1,6 +1,6 @@
-Gerador de senhas aleatórias
+# Password Generator
 
-# Aprendizados
+## Aprendizados
 - Componentização de todos os elementos presentes no app.
 - Organização do código e das pastas.
 - Aplicação Mobile First usando a biblioteca [MUI](https://mui.com/pt/).
